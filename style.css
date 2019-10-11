@@ -1,0 +1,80 @@
+#mainContent {
+    color: #4a4a4a;
+    font-family: 'Lato', sans-serif;
+    padding-left: 400px;
+    padding-right: 50px;
+    background-image: url(background.jpeg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    background-attachment: fixed;
+    
+}
+
+#sideBar {
+    background: #fececa;
+    height: 800pt;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+} 
+
+img {
+    border-radius: 70%;
+    height: 200;
+    margin-top: 20;
+    margin-bottom: 10
+}
+
+
+#sidebar h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #e67aa4;
+    padding-top: 10
+}
+
+#sidebar h3 {
+    color: #4a4a4a;
+    padding-top: 20;
+    font-size: 25
+} 
+
+#sidebar h4 {
+    color: #4a4a4a;
+    padding-top: 10
+}
+
+#sidebar h5 {
+    color: #4a4a4a;
+    padding-top: 10
+}
+
+
+ul {
+    list-style: none;
+    padding-left: 0;
+    text-align: center;
+    font-size: 16;
+    padding-top: 10
+}
+a {
+    color: #8C2F39
+}
+
+
+#resume-head {
+    padding-top: 2rem;
+    
+} 
+
+#resume-head h1 {
+    font-family: 'Dancing Script', cursive;
+    color: #e67aa4;
+    font-size: 75px
+}
+
+
+h2 {
+    text-align: center;
+    color: #e67aa4;
+    background-color: #fececa;
+}
